@@ -1,15 +1,5 @@
 {
   "posts": [
-    {
-      "id": "ba0a8526-c80d-441c-8dfe-3f237abbe3b0",
-      "title": "111",
-      "content": "111"
-    },
-    {
-      "id": "0da53557-81e7-4f6c-b9cf-44f080564f59",
-      "title": "asdasdasd",
-      "content": "asdasdasdsa"
-    }
   ],
   "users": []
 }
