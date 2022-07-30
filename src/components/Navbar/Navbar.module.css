@@ -1,0 +1,39 @@
+.wrapper_flex {
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 5px;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.wrapper_flex ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 30%;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+.wrapper_flex button {
+  padding: 0.375rem 0.75rem;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  color: black;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out;
+  cursor: pointer;
+}
+
+.wrapper_flex button:hover,
+.wrapper_flex button:active,
+.wrapper_flex button:focus {
+  color: #fff;
+  background-color: black;
+}

@@ -1,0 +1,25 @@
+.logged {
+    position: absolute;
+    top: 10px;
+    padding: 10px;
+    background-color: rgb(30, 221, 30);
+    color: white;
+    border: 1px solid grey;
+}
+
+.message_logged {
+    display: none;
+}
+
+.unlogged {
+    position: absolute;
+    top: 10px;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border: 1px solid grey;
+}
+
+.user_unlogged {
+    display: none;
+}

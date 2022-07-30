@@ -1,0 +1,12 @@
+.wrapper {
+    border: 1px solid grey;
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.wrapper p{
+    color: rgb(61, 61, 61);
+}
